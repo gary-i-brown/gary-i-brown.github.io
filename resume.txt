@@ -1,0 +1,93 @@
+Gary Brown
+  email:    gbrown@annaruth.com
+  phone:    512-585-8602
+  Location: Austin, TX
+
+Executive Summary
+
+ Versatile and results-driven technology leader with 20+ years of experience across 
+   the full spectrum of product development from individual contributor to executive 
+   leadership and program management. 
+
+ Recognized for driving innovation, scaling teams, and delivering enterprise-grade 
+   solutions in complex, distributed environments. 
+
+ Passionate about servant leadership, architecture excellence, and growing both people 
+   and products.
+
+Professional Experience
+
+ Technology Strategist (Dec 2024 -- Present)
+ Austin, Texas
+ 
+  * Leading a self-directed research initiative into scalable, enterprise-wide 
+    configuration management strategies, with a focus on improving software integrity 
+    and auditability.
+  * Engaging with industry leaders and emerging frameworks to inform future product 
+    concepts and improve development operations at scale.
+
+
+ Planview, Inc.  (https://www.planview.com)
+ Austin, Texas
+ 
+  Director, Product Development & Sr Software Engineer (Jun 2015 -- Dec 2024)
+
+   * Led technology strategy and daily operations for company-wide analytics and 
+     reporting platforms, leveraging hybrid teams across India and the U.S.
+   * Spearheaded development and delivery of enterprise architecture products, managing 
+     design, implementation, and operational success for top-tier customers.
+   * Partnered with executive leadership on strategic initiatives including system 
+     architecture, product roadmaps, and talent acquisition.
+   * Provided frequent engineering deliverables and senior level customer support 
+     including in person customer support
+
+ Troux Technologies  (https://www.planview.com/products-solutions/solutions/technology-application-portfolio-management/)
+
+  Vice President Product Development & Sr Software Engineer (Jun 2013 -- Jun 2015)
+
+   * Oversaw the entire product lifecycle across architecture, engineering, QA, and 
+     release management.
+   * Actively contributed to development efforts in Java and UI, supporting large-scale 
+     enterprise customer upgrades hands-on.
+   * Collaborated with product leadership to balance growth and product health
+
+  Director, Product Development & Sr Software Engineer (Feb 2007 -- Jun 2013
+   * Managed all aspects of engineering and release operations.
+   * Provided direct technical leadership on high-impact initiatives, maintaining close 
+     involvement in Java development and customer delivery.
+
+ Merant Software and Serena Software ([Microfocus](https://www.opentext.com/about/brands/microfocus)) (1999 -- Feb 2007)
+
+  Program Manager
+   * Directed a major initiative to deliver a new configuration management platform 
+     across a complex product suite.
+
+  Project Manager
+   * Led large-scale development efforts spanning issue tracking, requirements 
+     management, and version control systems.
+
+  Engineering Manager
+   * Guided development of an enterprise requirements management platform, mentoring 
+     a high-performing team of engineers.
+
+  Senior Software Engineer
+   * Built core features for PVCS and Tracker platforms in C++ and early web technologies.
+
+ Education & Qualifications
+
+  Master of Science Computer Science (1999)
+    The George Washington University (https://www.gwu.edu/) (Washington, DC)
+    Focus: Distributed Operating Systems
+
+  Bachelor of Science (1990)
+    Willamette University (https://willamette.edu/) (Salem, OR)
+    Dual Emphasis: Economics & Philosophy
+
+Technology Specialties
+ * Languages: Java (primary), SQL, C++, proprietary DSLs (ANTLR-based)
+ * Frameworks: Spring, Apache ecosystem, custom analytics/reporting platforms
+ * Databases: SQL Server, Oracle, Postgres, Neo4j, Tinkerpop
+ * DevOps & Tooling: Git, CI/CD pipelines, architecture strategy
+ * Specialties: Enterprise reporting, large-scale configuration management, platform 
+   modernization
+
